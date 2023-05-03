@@ -5,7 +5,7 @@
 <h1 align="center">Hello there!
 </h1> 
 
-
+If you've somehow made your way here, hello! It's a bit raggedy and I plan to fiddle some more. Currently just seeing all the cool things I can do with this since it's pretty rad! That's about it! Have a wonderful day!
 
 About Me:
 :milky_way: This is where the chaos gathers. 
